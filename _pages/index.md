@@ -3,8 +3,6 @@ permalink: index.html
 title: Grandma Calendar - kiddos
 ---
 
-# Check out what we got going on
-
 <center>
 <br />
 <br />
